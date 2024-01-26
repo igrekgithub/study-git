@@ -1,2 +1,0 @@
-Hello People!
-git remote set-url origin git@github.com:igrekgithub/study-git.git
